@@ -98,18 +98,3 @@ The results will be saved as a JSON file:
 - You can adjust scroll count and sleep delays if some product pages are missed.
 
 ---
-
-## 📞 Contact
-
-Built by ManiSaran 
-
----
-
-## 🧠 License
-
-This project is open-source under the [MIT License](LICENSE).
-```
-
----
-
-Let me know if you want a badge version, contributor section, or links to deploy this as an API!
